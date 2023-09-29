@@ -2,11 +2,11 @@
   <br>
     AMR Knowledge Graph
     <br>
-   <a href="https://github.com/Fraunhofer-ITMP/AMR-KG/actions/workflows/repo2docker.yml">
+   <a href="https://github.com/IMI-COMBINE/AMR-KG/actions/workflows/repo2docker.yml">
     <img src="https://github.com/Fraunhofer-ITMP/SASC/workflows/repo2docker/badge.svg"
          alt="GitHub Actions">
   </a>
-  <a href="https://mybinder.org/v2/gh/Fraunhofer-ITMP/AMR-KG/main?urlpath=desktop">
+  <a href="https://mybinder.org/v2/gh/IMI-COMBINE/AMR-KG/main?urlpath=desktop">
     <img src="https://mybinder.org/badge_logo.svg" alt="AMR-KG">
   </a>
   <br>
