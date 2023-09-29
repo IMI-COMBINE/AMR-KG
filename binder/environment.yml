@@ -1,0 +1,14 @@
+channels:
+- bioconda
+- conda-forge
+- defaults
+dependencies:
+- openjdk=11
+- jupyter-server-proxy
+- websockify
+- tqdm
+- pandas
+- pip
+- pip:
+   - py2neo
+   - pubchempy

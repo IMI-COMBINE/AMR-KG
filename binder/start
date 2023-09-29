@@ -1,0 +1,10 @@
+#!/bin/bash
+set -eux
+
+
+ln -s "$CONDA_DIR/vnc/Desktop"
+
+# start neo4j
+${CONDA_DIR}/neo4j-community/bin/neo4j start
+
+exec "$@"
